@@ -36,7 +36,8 @@ using namespace std;
 // ======== Task 1: Get user input (Member 1) ========
 void getInput(int &a, int &b) {
     cout << "Enter two integers: " << endl;
-    cin >> a >> b;
+    cin >> a;
+    cin >> b;
 }
 
 
