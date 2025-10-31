@@ -43,18 +43,19 @@ void getInput(int &a, int &b) {
 
 // ======== Task 2: Calculations (Member 2) ========
 int getSum(int a, int b) {
-    // TODO: Return the sum of a and b
-    return 0;
+    int sum=a+b;
+    return sum;
 }
 
 int getDifference(int a, int b) {
-    // TODO: Return the difference (a - b)
-    return 0;
+    int difference=a-b;
+
+    return difference;
 }
 
 int getProduct(int a, int b) {
-    // TODO: Return the product of a and b
-    return 0;
+    int product= a*b;
+    return product;
 }
 
 
