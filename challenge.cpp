@@ -61,7 +61,7 @@ int getProduct(int a, int b) {
 
 // ======== Task 3: Display results (Member 3) ========
 void displayResults(int a, int b, int sum, int diff, int prod) {
-    cout << "Numbers: "<< a << "and "<< b << endl;
+    cout << "Numbers: "<< a << " and "<< b << endl;
     cout << "Sum: " << sum << endl;
     cout << "Diffrence: " << diff << endl;
     cout << "Product: " << prod << endl;
